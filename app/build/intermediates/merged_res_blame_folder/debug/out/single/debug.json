@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-merged_res-19:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-merged_res-19:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-merged_res-19:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-merged_res-19:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-merged_res-19:\\drawable_ic_moon.xml.flat",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\drawable\\ic_moon.xml"
+    },
+    {
+        "merged": "com.example.constellation.app-merged_res-19:/layout_fragment_compatibility.xml.flat",
+        "source": "com.example.constellation.app-main-21:/layout/fragment_compatibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-merged_res-19:\\drawable_background_universe.jpg.flat",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\drawable\\background_universe.jpg"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-merged_res-19:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-merged_res-19:\\layout_fragment_compatibility.xml.flat",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\layout\\fragment_compatibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-merged_res-19:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-merged_res-19:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-pngs-14:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-merged_res-19:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-merged_res-19:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-merged_res-19:\\layout_fragment_horoscope.xml.flat",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\layout\\fragment_horoscope.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-merged_res-19:\\layout_activity_root.xml.flat",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\layout\\activity_root.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-merged_res-19:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-merged_res-19:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-merged_res-19:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-merged_res-19:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-merged_res-19:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-merged_res-19:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-merged_res-19:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-merged_res-19:\\layout_fragment_sign.xml.flat",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\layout\\fragment_sign.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-merged_res-19:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-merged_res-19:\\drawable_ic_compatibility.xml.flat",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\drawable\\ic_compatibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-merged_res-19:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-merged_res-19:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\xml\\backup_rules.xml"
+    }
+]

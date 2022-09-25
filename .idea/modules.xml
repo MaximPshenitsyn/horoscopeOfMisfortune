@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Constellation.iml" filepath="$PROJECT_DIR$/.idea/modules/Constellation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/Constellation.api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/Constellation.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/Constellation.api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/Constellation.api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/Constellation.api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api/Constellation.api.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Constellation.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Constellation.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Constellation.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Constellation.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Constellation.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Constellation.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Constellation.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Constellation.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

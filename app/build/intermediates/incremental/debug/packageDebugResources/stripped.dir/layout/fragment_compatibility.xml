@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/background_universe"
+    android:layout_height="match_parent"
+    tools:context=".CompatibilityFragment"
+    >
+
+    <TextView
+        android:id="@+id/compatibilityHeader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="50sp"
+        android:layout_marginTop="40sp"
+        android:text="@string/compatibility_header"
+        android:textAlignment="center"
+        android:textColor="@color/light_purple_universe"
+        android:textSize="40sp" />
+
+    <Spinner
+        android:id="@+id/compatibilityOther"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/compatibilityHeader"
+        android:layout_marginHorizontal="50sp"
+        android:layout_marginTop="40sp"
+        android:textColor="@color/light_purple_universe"
+        android:textSize="40sp" />
+
+    <RadioGroup
+        android:id="@+id/sexGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/compatibilityOther"
+        android:layout_marginTop="30sp"
+
+        android:layout_marginHorizontal="50sp">
+        <RadioButton
+            android:id="@+id/isMale"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/light_purple_universe"
+            android:text="@string/i_am_male"/>
+        <RadioButton
+            android:id="@+id/isFemale"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/light_purple_universe"
+            android:text="@string/i_am_female"/>
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/compatibilityText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/sexGroup"
+        android:layout_marginHorizontal="50sp"
+        android:layout_marginTop="40sp"
+        android:textColor="@color/light_purple_universe"
+        android:textSize="25sp" />
+
+</RelativeLayout>

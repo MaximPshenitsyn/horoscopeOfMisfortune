@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-mergeDebugResources-18:\\layout\\fragment_sign.xml",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\layout\\fragment_sign.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-mergeDebugResources-18:\\layout\\fragment_horoscope.xml",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\layout\\fragment_horoscope.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-mergeDebugResources-18:\\layout\\fragment_compatibility.xml",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\layout\\fragment_compatibility.xml"
+    },
+    {
+        "merged": "com.example.constellation.app-mergeDebugResources-18:/layout/fragment_compatibility.xml",
+        "source": "com.example.constellation.app-main-21:/layout/fragment_compatibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-mergeDebugResources-18:\\layout\\activity_root.xml",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\layout\\activity_root.xml"
+    },
+    {
+        "merged": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-mergeDebugResources-18:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\maxo7\\.gradle\\daemon\\7.3.3\\com.example.constellation.app-main-21:\\layout\\activity_main.xml"
+    }
+]

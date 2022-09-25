@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="signs">
+        <item>Овен</item>
+        <item>Телец</item>
+        <item>Близнецы</item>
+        <item>Рак</item>
+        <item>Лев</item>
+        <item>Дева</item>
+        <item>Весы</item>
+        <item>Скорпион</item>
+        <item>Стрелец</item>
+        <item>Козерог</item>
+        <item>Водолей</item>
+        <item>Рыбы</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="blue_universe">#3F5576</color>
+    <color name="dark_purple_universe">#2F3148</color>
+    <color name="dark_universe">#101116</color>
+    <color name="light_blue_universe">#587099</color>
+    <color name="light_purple_universe">#8689AC</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Constellation</string>
+    <string name="compatibility_header">Совместимость</string>
+    <string name="date_input_hint">Дата рождения д/м/г</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="horoscope_header">Гороскоп</string>
+    <string name="i_am_female">Я - женщина</string>
+    <string name="i_am_male">Я - мужчина</string>
+    <string name="image_of_sign_in_sun">image of sign in sun</string>
+    <string name="name_input_hint">Имя</string>
+    <string name="start_button_text">Начать</string>
+    <style name="Theme.Constellation" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/dark_purple_universe</item>
+        <item name="colorPrimaryVariant">@color/dark_universe</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/light_blue_universe</item>
+        <item name="colorSecondaryVariant">@color/light_purple_universe</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
