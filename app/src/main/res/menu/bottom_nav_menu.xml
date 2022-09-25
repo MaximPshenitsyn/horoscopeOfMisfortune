@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Sign"
+        android:icon="@drawable/ic_person"
+        android:id="@+id/signMenu"/>
+    <item android:title="Horoscope"
+        android:icon="@drawable/ic_moon"
+        android:id="@+id/horoscopeMenu"/>
+    <item android:title="Compatibility"
+        android:icon="@drawable/ic_compatibility"
+        android:id="@+id/compatibilityMenu"/>
+</menu>

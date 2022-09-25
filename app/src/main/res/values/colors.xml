@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_universe">#3F5576</color>
+    <color name="dark_purple_universe">#2F3148</color>
+    <color name="dark_universe">#101116</color>
+    <color name="light_blue_universe">#587099</color>
+    <color name="light_purple_universe">#8689AC</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

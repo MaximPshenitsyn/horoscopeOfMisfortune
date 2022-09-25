@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/background_universe"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HoroscopeFragment">
+
+    <TextView
+        android:id="@+id/horoscopeHeader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="50sp"
+        android:layout_marginTop="40sp"
+        android:text="@string/horoscope_header"
+        android:textAlignment="center"
+        android:textColor="@color/light_purple_universe"
+        android:textSize="50sp" />
+
+    <TextView
+        android:id="@+id/horoscopeDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/horoscopeHeader"
+        android:layout_marginHorizontal="50sp"
+        android:layout_marginTop="40sp"
+        android:textColor="@color/light_purple_universe"
+        android:textAlignment="center"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/horoscopeText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/horoscopeDate"
+        android:layout_marginHorizontal="50sp"
+        android:layout_marginTop="40sp"
+        android:textColor="@color/light_purple_universe"
+        android:textSize="25sp" />
+
+
+</RelativeLayout>
